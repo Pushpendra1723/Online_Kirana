@@ -1,4 +1,4 @@
-<h1 align="center">Online Kirana 🔴<a href="https://6504b2f30c4f2c20f304bba0--timely-maamoul-cf3252.netlify.app/">Demo</a></h1>
+<h1 align="center">Online Kirana 🔴<a href="https://pushpendra1723.github.io/Online_Kirana/">Demo</a></h1>
 <img src="https://github.com/Pushpendra1723/Online_Kirana/assets/94159743/a4180891-3902-48ea-b77b-501a97cb2e6a">
 <hr>
 <h2 align="center">About</h2>
