@@ -570,13 +570,15 @@
                 anytime.
               </p>
 
-              <form class="cta-form" action="#">
+              <form class="cta-form"   action="https://formspree.io/f/mqkvybbz"
+  method="POST">
                 <div>
                   <label for="full-name">Full Name</label>
                   <input
                     id="full-name"
                     type="text"
-                    placeholder="Pushpendra Kumar"
+                    name="name"
+                    placeholder="Your Name"
                     required
                   />
                 </div>
@@ -585,8 +587,9 @@
                   <label for="email">Email address</label>
                   <input
                     id="email"
+                    name="email"
                     type="email"
-                    placeholder="pushpendrakumargkp.com"
+                    placeholder="yourmail@gmail.com"
                     required
                   />
                 </div>
@@ -603,7 +606,7 @@
                   </select>
                 </div>
 
-                <button class="btn btn--form">Sign up now</button>
+                <button class="btn btn--form" input="submit" name="submit">Sign up now</button>
 
                 <!-- <input type="checkbox" />
                 <input type="number" /> -->
